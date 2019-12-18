@@ -1,7 +1,3 @@
-'''
-Leaf Classifier via Deep Convolutional Neural Network
-
-'''
 
 import tensorflow as tf
 import numpy as np
